@@ -9,5 +9,7 @@ public class CompareMap {
         Map<Integer,String> map3 = new LinkedHashMap<>();
         Map<Integer,String> map4 = new TreeMap<>();
 
+        Deque<Integer> deque = new ArrayDeque<>();
+
     }
 }

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="827b945b-2fe8-4eb4-a2fa-a86d352a7c37" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/skorobahatyi/lesson_1/FirstProgramm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/skorobahatyi/lesson_2/ChessBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/skorobahatyi/lesson_4/test_error/MemoryError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/skorobahatyi/lesson_4/test_error/StackOverFlowError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/skorobahatyi/lesson_4/test_unchecked_exception/ArithmeticExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/skorobahatyi/lesson_4/test_unchecked_exception/ArrayIndexOutOfBoundsExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/skorobahatyi/lesson_5/compare_lists/CompareAddMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/skorobahatyi/lesson_5/compare_lists/CompareAddMethodIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/skorobahatyi/my_tests/CompareCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/skorobahatyi/utils/Duration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/skorobahatyi/utils/GenerateRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/skorobahatyi/my_tests/CompareMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/skorobahatyi/my_tests/CompareMap.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2WvuAVrsPqRvjFfhYusLJWrfUEm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/New_job/__QALight/java_course"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CompareAddMethodIn">
+    <configuration name="ArithmeticExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.skorobahatyi.lesson_4.test_unchecked_exception.ArithmeticExceptionTest" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.skorobahatyi.lesson_4.test_unchecked_exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayIndexOutOfBoundsExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.skorobahatyi.lesson_4.test_unchecked_exception.ArrayIndexOutOfBoundsExceptionTest" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.skorobahatyi.lesson_4.test_unchecked_exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompareAddMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.skorobahatyi.lesson_5.compare_lists.CompareAddMethod" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.skorobahatyi.lesson_5.compare_lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompareAddMethodIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.skorobahatyi.lesson_5.compare_lists.CompareAddMethodIn" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.skorobahatyi.lesson_5.compare_lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.skorobahatyi.utils.GenerateRandom" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.skorobahatyi.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CompareAddMethodIn" />
+        <item itemvalue="Application.GenerateRandom" />
+        <item itemvalue="Application.CompareAddMethod" />
+        <item itemvalue="Application.ArrayIndexOutOfBoundsExceptionTest" />
+        <item itemvalue="Application.ArithmeticExceptionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="827b945b-2fe8-4eb4-a2fa-a86d352a7c37" name="Changes" comment="" />
+      <created>1697625233473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697625233473</updated>
+    </task>
+    <servers />
+  </component>
+</project>
