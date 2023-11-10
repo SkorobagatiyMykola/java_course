@@ -1,4 +1,4 @@
-package ua.skorobahatyi.lesson_2;
+package ua.skorobahatyi.lesson_2_array;
 
 public class ChessBoard {
     public static void main(String[] args) {

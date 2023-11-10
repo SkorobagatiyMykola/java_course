@@ -1,4 +1,4 @@
-package ua.skorobahatyi.lesson_5.compare_lists;
+package ua.skorobahatyi.lesson_5_list_set.compare_lists;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Random;
 
 public class CompareAddMethodIn {
-    private static int COUNT_DEFAULT_ELEMENTS = 1_000_000;
+    private static int COUNT_DEFAULT_ELEMENTS = 1_0_000;
     private static int COUNT_OPERATION = 10_000;
 
     public static void main(String[] args) {

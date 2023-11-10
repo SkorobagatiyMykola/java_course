@@ -1,4 +1,4 @@
-package ua.skorobahatyi.lesson_4.test_unchecked_exception;
+package ua.skorobahatyi.lesson_4_exception.test_unchecked_exception;
 
 public class ArithmeticExceptionTest {
     public static void main(String[] args) {
